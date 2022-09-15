@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Salvatore-D-Agostino-React-project/static/css/main.b4530b9a.chunk.css",
+    "main.js": "/Salvatore-D-Agostino-React-project/static/js/main.e14e08fe.chunk.js",
+    "main.js.map": "/Salvatore-D-Agostino-React-project/static/js/main.e14e08fe.chunk.js.map",
+    "runtime-main.js": "/Salvatore-D-Agostino-React-project/static/js/runtime-main.3005f731.js",
+    "runtime-main.js.map": "/Salvatore-D-Agostino-React-project/static/js/runtime-main.3005f731.js.map",
+    "static/js/2.a4887159.chunk.js": "/Salvatore-D-Agostino-React-project/static/js/2.a4887159.chunk.js",
+    "static/js/2.a4887159.chunk.js.map": "/Salvatore-D-Agostino-React-project/static/js/2.a4887159.chunk.js.map",
+    "index.html": "/Salvatore-D-Agostino-React-project/index.html",
+    "static/css/main.b4530b9a.chunk.css.map": "/Salvatore-D-Agostino-React-project/static/css/main.b4530b9a.chunk.css.map",
+    "static/js/2.a4887159.chunk.js.LICENSE.txt": "/Salvatore-D-Agostino-React-project/static/js/2.a4887159.chunk.js.LICENSE.txt",
+    "static/media/animals2.2ab422dc.png": "/Salvatore-D-Agostino-React-project/static/media/animals2.2ab422dc.png",
+    "static/media/environment4.053b86d3.png": "/Salvatore-D-Agostino-React-project/static/media/environment4.053b86d3.png",
+    "static/media/RecipeForm.module.css": "/Salvatore-D-Agostino-React-project/static/media/garden.af538c13.jpg",
+    "static/media/health4.80de3828.png": "/Salvatore-D-Agostino-React-project/static/media/health4.80de3828.png",
+    "static/media/vegetarian.a7aa6ab7.png": "/Salvatore-D-Agostino-React-project/static/media/vegetarian.a7aa6ab7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3005f731.js",
+    "static/js/2.a4887159.chunk.js",
+    "static/css/main.b4530b9a.chunk.css",
+    "static/js/main.e14e08fe.chunk.js"
+  ]
+}
